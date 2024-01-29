@@ -11,14 +11,14 @@ Algoritmo para otimização do planejamento dos técnicos de campo e distribuiç
 ## 💻 Solução de problemas de otimização e pesquisa operacional:
 
 - Grupo 1 - Consilium
-  - Link do repositório: https://github.com/2023M6T5Inteli/g1-consilium
+  - Link do repositório: https://github.com/InteliProjects/2023M6T5Inteli-g1-consilium
 
 - Grupo 2 - .Vitau.
-  - Link do repositório: https://github.com/2023M6T5Inteli/g2-vitau
+  - Link do repositório: https://github.com/InteliProjects/2023M6T5Inteli-g2-vitau
 
 - Grupo 3 - Vitalis
-  - Link do repositório: https://github.com/2023M6T5Inteli/g3-vitalis
+  - Link do repositório: https://github.com/InteliProjects/2023M6T5Inteli-g3-vitalis
 
 - Grupo 4 - OptiLink
-  - Link do repositório: https://github.com/2023M6T5Inteli/g4-optilink
+  - Link do repositório: https://github.com/InteliProjects/2023M6T5Inteli-g4-optilink
 
